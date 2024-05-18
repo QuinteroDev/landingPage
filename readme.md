@@ -28,13 +28,13 @@ The base folder contains fundamental styles for HTML elements, such as typograph
 4. Components
 The components folder houses SCSS files related to specific UI components used in the project, such as headers, hero sections, images, categories, etc.
 
-### Header
+### Header
 The header component consists of a navigation bar and a title. It is designed to be responsive, adapting its layout based on the device's screen size.
 
 ### Hero Section
 The hero section component is responsible for displaying introductory content at the top of each page. It includes a title, a description, and navigation links.
 
-### Image
+### Image
 The image component handles the display of images within the website. It ensures that images are positioned and styled appropriately across different screen sizes.
 
 ### Categories
@@ -52,7 +52,7 @@ The themes folder contains SCSS files for defining different visual themes or st
 8. Settings
 The settings file includes global settings and configurations for the SCSS project, such as font families, background colors, etc.
 
-### Conclusion
+### Conclusion
 
 This project demonstrates the use of SCSS (Sass) for efficient and modular styling, resulting in a responsive and visually appealing website. By organizing styles into separate components and abstracts, the project maintains scalability and ease of maintenance.
 
